@@ -15,12 +15,21 @@ Right & Numpad4::Send $
 
 Right & Numpad5::Send `%
 
+Right & Numpad6::Send &
+
+Right & Numpad8:: Send `()
+
+
+
 #If !GetKeyState("NumLock", "T")
 SC04F::Send {=}
 SC050::Send `"
 SC051::Send {#}
 SC04B::Send $
 SC04C::Send `%
+SC04D::Send &
+SC048::Send `()
+
 #If
 
 Right::Right           ; To reset the functionality
