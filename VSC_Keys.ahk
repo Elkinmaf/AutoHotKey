@@ -24,4 +24,3 @@ SC04C::Send `%
 #If
 
 Right::Right           ; To reset the functionality
-
