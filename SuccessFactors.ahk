@@ -38,3 +38,8 @@
 ::c.dm:: Import/Export Corporate Data Model
 
 ::o.d:: Configure Object Definitions
+
+::a.e:: Add New Employee
+
+::r.e:: Rehire Inactive Employee
+
