@@ -43,3 +43,5 @@
 
 ::r.e:: Rehire Inactive Employee
 
+::i.e:: Import Employee Data
+
